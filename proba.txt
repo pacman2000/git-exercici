@@ -1,1 +1,6 @@
-Ara fem canvis des de la branca master
+<<<<<<< HEAD
+
+=======
+
+Modificació de proba.text des de branch1
+>>>>>>> branch1
